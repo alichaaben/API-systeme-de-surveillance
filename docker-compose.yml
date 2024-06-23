@@ -1,0 +1,6 @@
+﻿services:
+  apicam:
+    image: apicam
+    build:
+      context: .
+      dockerfile: ApiCam/Dockerfile

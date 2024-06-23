@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCam", "ApiCam\ApiCam.csproj", "{0A6AD5F4-45CD-40C1-8CDF-C22FF0AFEA12}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E967E7B-D7DC-4BFA-A352-E3A08AE4B1E7}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6AD5F4-45CD-40C1-8CDF-C22FF0AFEA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6AD5F4-45CD-40C1-8CDF-C22FF0AFEA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6AD5F4-45CD-40C1-8CDF-C22FF0AFEA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6AD5F4-45CD-40C1-8CDF-C22FF0AFEA12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
